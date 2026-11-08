@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://colbergcpa.com/sitemap.xml
